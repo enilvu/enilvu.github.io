@@ -1,0 +1,17 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#ffffff" stroke="#000" x="13.43794" y="9.40309" width="34.88369" height="41.39531" id="svg_2"/>
+  <rect fill="#ffffff" stroke="#000" x="17.79071" y="14.53485" width="25.23254" height="31.97672" id="svg_3"/>
+  <rect fill="#ffffff" stroke="#000" x="23.48838" y="20.93019" width="14.30231" height="20.81394" id="svg_4"/>
+  <line fill="none" stroke="#000" x1="48.02324" y1="4.99997" x2="47.90697" y2="9.41857" id="svg_5"/>
+  <line fill="none" stroke="#000" x1="52.20929" y1="7.55811" x2="47.67441" y2="8.95346" id="svg_6"/>
+  <line fill="none" stroke="#000" x1="48.2558" y1="50.11621" x2="51.51161" y2="51.8604" id="svg_7"/>
+  <line fill="none" stroke="#000" x1="13.02327" y1="50.46505" x2="13.13955" y2="53.60458" id="svg_8"/>
+  <line fill="none" x1="13.13955" y1="9.8682" x2="15.69769" y2="6.26355" id="svg_9" stroke="#000"/>
+  <line stroke="#000" fill="none" x1="48.74035" y1="50.38368" x2="48.39151" y2="54.56973" id="svg_10"/>
+  <line stroke="#000" id="svg_1" y2="8.58216" x2="9.66556" y1="9.74889" x1="13.99913" fill="none"/>
+  <line id="svg_12" y2="51.75119" x2="10.83229" y1="50.58446" x1="13.4991" stroke="#000" fill="none"/>
+ </g>
+
+</svg>
