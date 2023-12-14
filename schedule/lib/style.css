@@ -1,0 +1,147 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 1.2rem;
+	background: whitesmoke;
+	margin: 0;
+	padding: 1rem;
+	display: grid;
+	place-items: center;
+	min-height: 100vh;
+}
+
+ol {
+	list-style-position: inside;
+	width: 300px;
+	max-width: 100%;
+	background: white;
+	box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+	padding: 0;
+	margin: 0;
+	border-radius: 0.1rem;
+	float: left;
+}
+.ag {
+	background-color: #f8491470;
+}
+.rus {
+	background-color: #fd54a38e;
+}
+.eng {
+	background-color: #31149b7a;
+}
+.inf {
+	background-color: #2493dd81;
+}
+.phtr {
+	background-color: #bac42e7a;
+}
+.lit {
+	background-color: rgba(85, 0, 0, 0.404);
+}
+.his {
+	background-color: #6cc;
+}
+.f {
+	background-color: #256dd88c;
+}
+.gm {
+	background-color: #c925d88c;
+}
+.ch {
+	background-color: #25d87e8c;
+}
+.mk {
+	background-color: #ccd82570;
+}
+.bz {
+	background-color: #d825258c;
+}
+.bio {
+	background-color: #2590d8da;
+}
+.geo {
+	background-color: #d8252ec5;
+}
+.ob {
+	background-color: #5525d877;
+}
+.pp {
+	background-color: #25d85269;
+}
+li {
+	padding: 0 0 0 1rem;
+	border-bottom: 1px solid lightblue;
+}
+
+/*________________________________________________________________________*/
+::marker {
+	--image: '🐱‍🏍 ';
+	content: counter(list-item) ' ' var(--image);
+}
+
+li:nth-child(2)::marker {
+	--image: '👌 ';
+}
+
+li:nth-child(3)::marker {
+	--image: '👌 ';
+}
+
+li:nth-child(4)::marker {
+	--image: '🐱‍👤';
+}
+
+li:nth-child(5)::marker {
+	--image: '✨ ';
+}
+
+li:nth-child(6)::marker {
+	--image: '😢';
+}
+
+li:nth-child(7)::marker {
+	--image: '✔ ';
+}
+
+li:nth-child(7)::marker {
+	--image: '🐱‍';
+}
+
+li:nth-child(8)::marker {
+	--image: '🤷‍♀️ ';
+}
+li:nth-child()::marker {
+	--image: '';
+}
+
+li:nth-child(3)::marker {
+	--image: '👌 ';
+}
+
+li:nth-child(4)::marker {
+	--image: '🐱‍👤';
+}
+
+li:nth-child(5)::marker {
+	--image: '✨ ';
+}
+
+li:nth-child(6)::marker {
+	--image: '😢';
+}
+
+li:nth-child(7)::marker {
+	--image: '✔ ';
+}
+
+li:nth-child(7)::marker {
+	--image: '🐱‍';
+}
+
+li:nth-child(8)::marker {
+	--image: '🤷‍♀️ ';
+}
